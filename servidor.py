@@ -1,3 +1,7 @@
+# Matéria: Redes
+# Professor: João Victor
+# Alunos: Mateus, Ruan, Vitória
+
 from concurrent.futures import thread
 import socket
 import threading
